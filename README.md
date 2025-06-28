@@ -1,6 +1,7 @@
 # TensorFlow Computer Vision Notebooks
 
 This repository contains practical **Computer Vision notebooks** built using **TensorFlow** and **Keras**.  
+🔗 **Project Link**: [github.com/aydiegithub/tensor-flow-vision](https://github.com/aydiegithub/tensor-flow-vision)
 Each notebook follows official TensorFlow documentation and demonstrates:
 
 - Image preprocessing

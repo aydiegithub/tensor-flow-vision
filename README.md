@@ -29,23 +29,23 @@ Each notebook is organized by topic and includes comments and explanations for e
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Socials
 
-If you'd like to connect or have any queries, feel free to reach out:
+Feel free to reach out or follow me on social platforms:
 
-- 📧 Email: [aydiemusic@gmail.com](mailto:aydiemusic@gmail.com)
+- 📧 Email: [business@aydie.in](mailto:business@aydie.in)
 - 🌐 Website: [aydiie.in](https://aydiie.in)
 - 📱 Phone: +91 90364 69492
-- 💼 LinkedIn: [linkedin.com/in/aydiie](https://linkedin.com/in/aydiie)
-- 🐦 Twitter: [twitter.com/aydiiebantai](https://twitter.com/aydiiebantai)
-- 📸 Instagram: [instagram.com/aydiiebantai](https://instagram.com/aydiiebantai)
+- 💼 LinkedIn: [linkedin.com/in/aydiemusic](https://linkedin.com/in/aydiemusic)
+- 🐦 Twitter: [twitter.com/aydiemusic](https://twitter.com/aydiemusic)
+- 📸 Instagram: [instagram.com/aydiemusic](https://instagram.com/aydiemusic)
 - 🎵 YouTube: [youtube.com/aydiemusic](https://youtube.com/aydiemusic)
 
 ---
 
 ## 📌 License
 
-This project is open-source.
+This project is open-source and available under the [Apache](LICENSE).
 
 ---
 

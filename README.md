@@ -16,7 +16,7 @@ These notebooks are ideal for **hands-on learning** and mastering **deep learnin
 
 ## 📂 Folder Structure
 
-Each notebook is organized by topic and includes comments and explanations for easy understanding.
+Each notebook is organised by topic and includes comments and explanations for easy understanding.
 
 ---
 
@@ -34,7 +34,7 @@ Each notebook is organized by topic and includes comments and explanations for e
 Feel free to reach out or follow me on social platforms:
 
 - 📧 Email: [business@aydie.in](mailto:business@aydie.in)
-- 🌐 Website: [aydiie.in](https://aydiie.in)
+- 🌐 Website: [aydie.in](https://aydie.in)
 - 📱 Phone: +91 90364 69492
 - 💼 LinkedIn: [linkedin.com/in/aydiemusic](https://linkedin.com/in/aydiemusic)
 - 🐦 Twitter: [twitter.com/aydiemusic](https://twitter.com/aydiemusic)
@@ -49,4 +49,4 @@ This project is open-source and available under the [Apache](LICENSE).
 
 ---
 
-> Made with ❤️ by [Aydie](https://aydiie.in) — Aspiring Data Scientist & AI Engineer.
+> Made with ❤️ by [Aydie](https://aydie.in) — Aspiring Data Scientist & AI Engineer.
